@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #f0e6e6;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  background-color: #1f7055;
+  text-align: center;
+  color: #b8d6b3;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.header-h {
+  font-size: 45px;
+}
+
+.menu {
+  padding: 10px;
+}
+
+.menu-item {
+  display: inline;
+  padding: 8px;
+}
+
+a {
+  color: #b8d6b3;
+}
+
+a:hover {
+  color: #093112;
+}
+
+a:active {
+  color: #15ecfc6e;
+}
+
+.intro {
+  padding-top: 35px;
+  padding-bottom: 25px;
+  text-align: center;
+  margin: 20px;
+}
+
+.intro-info {
+    margin: 10px;
+    padding: 10px;
+}
+
+.intro-h {
+  font-size: 38px;
+  padding-bottom: 15px;
+  color: #093112;
+}
+.intro-p {
+  margin: 20px;
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+
+.intro-btn {
+  background-color: #1f7055;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: small;
+  color: #b8d6b3;
+}
+
+.intro-btn:hover {
+  background-color: #339675;
+}
+
+.featured {
+  padding: 20px;
+  text-align: center;
+}
+
+.featured-h {
+  font-size: 30px;
+  color: #093112;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.destination {
+  background-color: #ffffff;
+  display: inline-block;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 7px;
+}
+
+.destination-info {
+  margin: 5px;
+  padding: 5px;
+  line-height: 1.5;
+}
+
+.destination-image {
+  max-width: 100%;
+  border-radius: 7px;
+  width: 500px;
+  height: 300px;
+}
+
+.newsletter {
+  background-color: #aec9c0;
+  color: #093112;
+  text-align: center;
+  padding: 20px;
+}
+
+.newsletter-h {
+  padding-bottom: 10px;
+  font-size: 20px;
+  color: #093112;
+}
+
+.newsletter-p {
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+
+.newsletter-form {
+  width: 100%;
+}
+
+#Email {
+  width: 55%;
+  border-radius: 3px;
+  border: none;
+  padding: 5px;
+}
+
+#submit-btn {
+  border-radius: 3px;
+  border: none;
+  padding: 5px;
+  background-color: #1f7055;
+  color: #b8d6b3;
+}
+
+footer {
+  background-color: #1f7055;
+  text-align: center;
+  color: #b8d6b3;
+  padding: 8px;
+  font-size: 12px;
+}
