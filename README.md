@@ -5,7 +5,7 @@
 Design and implement HTML/CSS for the Travel Adventures Website.
 
 The Travel Adventures website aims to provide an online platform for users to explore various travel destinations and adventure opportunities. 
-This assignment focuses on designing and implementing the HTML and CSS for the Travel Adventures website, creating an attractive, user-friendly, and responsive web interface that encourages users to explore travel destinations, services, and related content seamlessly.
+This assignment focuses on designing and implementing the HTML and CSS for the Travel Adventures website, creating an attractive, user-friendly and responsive web interface that encourages users to explore travel destinations, services and related content seamlessly.
 
 ### **Project objectives:**
 
