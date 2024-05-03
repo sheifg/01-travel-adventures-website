@@ -1,4 +1,4 @@
-## **01 - Travel Adventures Website** 
+## **Travel Adventures Website** 
 
 ### **Project description:**
 
